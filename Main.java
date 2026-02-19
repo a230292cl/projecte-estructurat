@@ -23,6 +23,6 @@ public class Main {
 	}
     public static void main (String[] args) {
         Main p = new Main();
-        p.writePrimeNumbers(1,100);
+        p.writePrimeNumbers(1,5);
      }
 }
